@@ -5,3 +5,4 @@ matplotlib
 filelock
 importlib-metadata<2
 ipykernel
+nltk
